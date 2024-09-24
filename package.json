@@ -1,0 +1,16 @@
+{
+  "name": "coop_checker",
+  "version": "1.0.0",
+  "description": "This application will search for the right co-op placement using the AI powered Exa API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
